@@ -1,0 +1,16 @@
+D:\Работа студентов\Скрипник\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\Работа студентов\Скрипник\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\Работа студентов\Скрипник\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Работа студентов\Скрипник\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Работа студентов\Скрипник\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Работа студентов\Скрипник\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
