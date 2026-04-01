@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\Interop.WMPNSSCI.dll
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\user\Desktop\ИСРПО\MusicPlayer\obj\Debug\MusicPlayer.pdb
